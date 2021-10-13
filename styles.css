@@ -1,0 +1,43 @@
+*{
+border: 1px dashed red;
+min-height: 10px;
+
+}
+
+body{
+    margin: 0px;
+    background: white;
+    height: 100%;
+    
+
+}
+
+.payment-header{
+
+    background:grey;
+    width: 800px;
+    height: 50px;
+    margin: auto;
+    padding: 5px;
+    
+}
+
+.payment-body{
+
+    background: white;
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    padding: 5px;
+
+}
+ 
+.payment-footer{
+    background: grey;
+    width: 800px;
+    height: 100px;
+    margin: auto;
+    padding: 5px;
+
+
+}
