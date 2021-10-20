@@ -1,8 +1,4 @@
-*{
-border: 1px dashed red;
-min-height: 10px;
 
-}
 
 body{
     margin: 0px;
@@ -14,7 +10,7 @@ body{
 
 .payment-header{
 
-    background:grey;
+    background:rgb(209, 203, 203);
     width: 800px;
     height: 50px;
     margin: auto;
@@ -33,11 +29,21 @@ body{
 }
  
 .payment-footer{
-    background: grey;
+    background:rgb(211, 202, 202);
     width: 800px;
-    height: 100px;
+    height: 50px;
     margin: auto;
     padding: 5px;
 
 
+}
+.some{
+ background-color: rgb(247, 201, 208);
+ width: 800px;
+ height: 40px;
+}
+
+.acount{
+display: flex;
+justify-content:space-between;
 }
