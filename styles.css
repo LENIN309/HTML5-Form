@@ -5,10 +5,63 @@ body {
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
-.container {
+.container{
+
+background-color: rgb(255, 245, 245);
+padding: 20px 40px 40px 20px;
+
+
+
+}
+.subcontainer {
 	background: white;
 	width: 1000px;
-	height: 700px;
+	height: 600px;
 	margin: auto;
-	padding: 30px
+	padding: 30px;
+	border-style:solid;
+border-radius: 10px;
+border-color: grey;
+	
+}
+.header{
+	width: 950px;
+ background-color:rgb(221, 212, 212);
+ border-style: solid;
+ border-radius: 5px;
+ border-color: rgb(218, 212, 212);
+ padding: 5px;
+ height: 40px;
+
+}
+
+.subtitle{
+background-color: rgb(253, 207, 213);
+padding: 4px;
+margin-top: 12px;
+
+
+
+
+}
+
+.cabezera {
+ border-style: dashed;
+ border-radius: 10px;
+ border-color: red;
+
+
+}
+
+.footer{
+	position: relative;
+	top: 11px;
+	background-color: rgb(221, 212, 212);
+	padding: 5px;
+	border-style: solid;
+ border-radius: 5px;
+ border-color: rgb(218, 212, 212);
+
+	
+
 }
