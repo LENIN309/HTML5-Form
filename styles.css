@@ -8,7 +8,7 @@ body {
 .container{
 
 background-color: rgb(255, 245, 245);
-padding: 20px 40px 40px 20px;
+padding: 40px 40px 40px 20px;
 
 
 
@@ -25,7 +25,7 @@ border-color: grey;
 	
 }
 .header{
-	width: 950px;
+	width: 935px;
  background-color:rgb(221, 212, 212);
  border-style: solid;
  border-radius: 5px;
